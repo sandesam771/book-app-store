@@ -15,3 +15,8 @@ This app has to parts: The first part is where you add a book title, author, pag
 3.SASS/SCSS: 5.6%
 
 4.JavaScript:83.3%
+# Features
+1.You can add book and it's descriptions
+2.You can delete book
+# Tools
+1.VS Code
